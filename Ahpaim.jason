@@ -1,15 +1,18 @@
 {
-//
-"Version":"2.2",
-//
-"Url":"https://raw.githubusercontent.com/Supervpn2020/supervpn/main/updateApp.json" ,
-"Changelog":"
+   "files": [ 
+
+{
+         "name": "TH-PAYNET-VIP (nopro)",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacNoPro-VIP.ovpn"
+      },
+
 
 မဂၤလာပါ PAYNET-Free မွႀကိဳဆိုပါတယ္။
 အပ္ဒိတ္အသစ္တင္မွသာလွ်င္အသံုးျပဳႏိုင္ပါမည္။
 1user1device ျဖစ္လဲဝယ္ယူလို႔ရပါတယ္ခင္မ်ာ။
 ",
 //
+"Version":"2.2",
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
